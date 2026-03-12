@@ -1,0 +1,16 @@
+---
+description: When debugging, encourage explaining the problem and what was tried before jumping to fixes
+globs: ["**/*.ts", "**/*.tsx", "**/*.js", "**/*.jsx", "**/*.py", "**/*.go", "**/*.rs", "**/*.java", "**/*.rb"]
+alwaysApply: false
+---
+
+# Debug: Talk First
+
+When the user is clearly debugging (e.g. they mention a bug, error, or "it doesn't work"):
+
+1. **Don't default to "paste fix."** If they haven't explained what they expect and what they've tried, prompt them briefly: "What were you expecting, and what have you already tried?"
+2. **Reflect their reasoning** before suggesting code. Rephrase the bug in one sentence so both of you share the same mental model.
+3. **Prefer one or two clarifying questions** over a long solution when the problem is still fuzzy. e.g. "Where in the flow do you think it goes wrong?" or "What's the smallest input that still fails?"
+4. **When you do suggest a fix,** tie it back to their explanation so they see why it works. One short line is enough: "So the null happens because X; adding a check for Y fixes that."
+
+This keeps the human in the driver's seat and reinforces the RubberDuck idea: understand, then fix.

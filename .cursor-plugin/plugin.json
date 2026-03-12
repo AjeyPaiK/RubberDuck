@@ -1,0 +1,17 @@
+{
+  "name": "rubber-duck",
+  "version": "0.1.0",
+  "description": "Talk through bugs with an LLM. A Cursor plugin for devs who want to understand, not just fix.",
+  "author": {
+    "name": "RubberDuck"
+  },
+  "keywords": [
+    "debugging",
+    "rubber-duck",
+    "reasoning",
+    "cursor",
+    "vibe-coded",
+    "responsible-programming"
+  ],
+  "license": "MIT"
+}
