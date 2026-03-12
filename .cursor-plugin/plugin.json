@@ -5,6 +5,9 @@
   "author": {
     "name": "RubberDuck"
   },
+  "homepage": "https://github.com/YOUR_USERNAME/RubberDuck#readme",
+  "repository": "https://github.com/YOUR_USERNAME/RubberDuck",
+  "logo": "assets/logo.png",
   "keywords": [
     "debugging",
     "rubber-duck",

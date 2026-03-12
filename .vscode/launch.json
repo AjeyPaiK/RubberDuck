@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "RubberDuck: Debug test script",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/test-debug-script.js",
+      "console": "integratedTerminal"
+    }
+  ]
+}
