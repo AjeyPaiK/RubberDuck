@@ -4,6 +4,8 @@
 
 Talk through bugs with an LLM instead of pasting and praying. RubberDuck turns your Cursor agent into a rubber duck: it asks questions, reflects your reasoning, and keeps you in the driver's seat so you **understand, then fix**.
 
+**Why it stands out:** Most AI debugging is paste error → get fix. RubberDuck is the only Cursor plugin that (1) makes the agent *listen and ask questions* instead of jumping to a fix, and (2) one-click sends your **live debugger state** (stack + variables) into the chat when you're paused at a breakpoint. See [COMPETITIVE.md](./COMPETITIVE.md) for how it compares to other plugins.
+
 ---
 
 ## What it does

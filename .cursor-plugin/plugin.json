@@ -1,7 +1,7 @@
 {
   "name": "rubber-duck",
   "version": "0.1.0",
-  "description": "Talk through bugs with an LLM. A Cursor plugin for devs who want to understand, not just fix.",
+  "description": "Turn the agent into a rubber duck: talk through bugs, get questions (not just fixes). Sends live debugger state into chat so you understand before you fix.",
   "author": {
     "name": "RubberDuck"
   },
@@ -9,6 +9,8 @@
     "debugging",
     "rubber-duck",
     "reasoning",
+    "understand-not-fix",
+    "debug-context",
     "cursor",
     "vibe-coded",
     "responsible-programming"
