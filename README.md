@@ -23,7 +23,6 @@ Talk through bugs with an LLM instead of pasting and praying. RubberDuck turns y
 
 - **From Cursor:** Install via the Cursor plugin/marketplace (once published), or add from path.
 - **Local:** Clone the repo, then in Cursor add the plugin from the `RubberDuck` folder (Settings → Plugins → Add from path).
-- **Publish:** [cursor.com/marketplace/publish](https://cursor.com/marketplace/publish).
 
 ### 2. VS Code extension (debugger integration)
 
