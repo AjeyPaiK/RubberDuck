@@ -1,5 +1,7 @@
 # RubberDuck
 
+![RubberDuck logo](assets/logo.png)
+
 **A vibe coded plugin for responsible programmers.**
 
 Talk through bugs with an LLM instead of pasting and praying. RubberDuck turns your Cursor agent into a rubber duck: it asks questions, reflects your reasoning, and keeps you in the driver's seat so you **understand, then fix**.
